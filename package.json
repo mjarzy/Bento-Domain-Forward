@@ -9,5 +9,9 @@
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.2.0",
+    "miniflare": "^3.20231218.1"
   }
 }

@@ -49,3 +49,9 @@ compatibility_date = "2023-12-18"
 # [[migrations]]
 # tag = "v1"
 # new_classes = ["MyDurableObject"]
+
+# Below the current configuration
+[vars]
+BENTO_USERNAME = "mjarzy" # replace with the name of your Bento page
+BASE_URL = "https://jarzynowski.com" # the custom domain you'll use
+
